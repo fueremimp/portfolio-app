@@ -172,7 +172,7 @@ const App = () => {
                           Preparation of the 2025 OPEX Budget
                         </h1>
                         <h2 className="text-xs font-semibold">
-                          Division ADV, WDL, & CISO
+                          Division ADV, RDL, & WDL
                         </h2>
                         <p className="mt-2 text-xs text-justify">
                           The preparation of the 2025 OPEX budget for Division
